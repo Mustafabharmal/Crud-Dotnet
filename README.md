@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-  https://github.com/Mustafabharmal/Crud-Dotnet.git
+     https://github.com/Mustafabharmal/Crud-Dotnet.git
    ```
 
 2. **Set up Database**
